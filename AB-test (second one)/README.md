@@ -1,4 +1,4 @@
-Ссылка на просмотр проекта через nbviewer: 
+Ссылка на просмотр проекта через nbviewer: [Анализ результатов A/B-тестирования](https://nbviewer.org/github/mariasaveleva/study-projects/blob/f1298f49ad67fdfc409059790aec72f2b265c6c6/AB-test%20%28second%20one%29/Анализ%20результатов%20AB-теста.ipynb)
 
 ##
 ### Описание
