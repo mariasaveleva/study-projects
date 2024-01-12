@@ -1,3 +1,5 @@
+Ссылка на просмотр проекта через nbviewer: [Проект по SQL advanced](https://nbviewer.org/github/mariasaveleva/study-projects/blob/5003781b9731180a7469e69ddc1e65d01bfdaff5/project%20advanced%20SQL/SQL%20advanced.ipynb)
+
 ### Описание
 Анализ данных StackOverflow (сервиса вопросов и ответов о программировании) через SQL-запросы. StackOverflow похож на социальную сеть — пользователи сервиса задают вопросы, отвечают на посты, оставляют комментарии и ставят оценки другим ответам.
 
