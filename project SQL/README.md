@@ -1,3 +1,6 @@
+Cсылка на просмотр проекта через nbviewer: [Проект по SQL](https://nbviewer.org/github/mariasaveleva/study-projects/blob/074510caa2d1110917885f8bb979071ffe7c7e60/project%20SQL/Мини%20проект%20по%20SQL.ipynb)
+
+##
 ## Описание
 Мини проект по SQL на пять запросов, сделанный в jupyter notebook через подключение к базе данных.
 
