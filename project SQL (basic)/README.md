@@ -1,3 +1,6 @@
+Ссылка на просмотр проекта через nbviewer: [SQL basics](https://nbviewer.org/github/mrsav07/study-projects/blob/6d14719ed2cb59a0db6b4c61d5f0f6415623e9c1/project%20SQL%20%28basic%29/SQL%20basics.ipynb)
+
+##
 ### Описание
 Анализ данных о фондах и инвестициях через запросы к базе.
 
